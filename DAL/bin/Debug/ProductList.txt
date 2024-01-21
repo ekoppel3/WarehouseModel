@@ -1,0 +1,23 @@
+﻿hairbrush
+3546
+10
+1000
+stroller
+5321
+70
+600
+bobby pins
+3245
+3
+900
+sweater
+46324
+25
+89
+balloon
+4632
+1
+325
+
+
+
